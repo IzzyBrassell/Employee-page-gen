@@ -1,0 +1,31 @@
+{
+  "name": "employee-page-gen",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "library": "library",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzzyBrassell/Employee-page-gen.git"
+  },
+  "author": "Izzy Brassell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IzzyBrassell/Employee-page-gen/issues"
+  },
+  "homepage": "https://github.com/IzzyBrassell/Employee-page-gen#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

@@ -10,8 +10,6 @@ const generateTeam = require("./src/template.js")
 
 teamArray = [];
 
-
-
 function runApp () {
 
   function createTeam () {
@@ -37,7 +35,6 @@ function runApp () {
       }
     })
   }
-
 
 function addManager() {
   inquirer.prompt ([
@@ -73,7 +70,6 @@ function addManager() {
   });
 
 }
-
 
 function addEngineer() {
     inquirer.prompt([
@@ -145,12 +141,6 @@ function addEngineer() {
 
   }
 
-  // return to menu with option to add another team member create team
-
-  // Would you like to add a team member?
-  // Yes || No
-  // If Yes --> Then select an employee role for your new team member: Manager, Engineer, Intern
-  // If No --> Create Team
 
 
 function htmlBuilder () {

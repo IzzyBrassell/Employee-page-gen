@@ -51,4 +51,8 @@ THEN I exit the application, and the HTML is generated
 
 
 
-https://user-images.githubusercontent.com/115316007/228368360-0da84816-34cc-427d-acf4-911296a8a6e4.mp4
+
+https://user-images.githubusercontent.com/115316007/228368752-50d62a94-8b56-4a59-b5ff-fc81121fd227.mp4
+
+
+

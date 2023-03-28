@@ -50,9 +50,5 @@ THEN I exit the application, and the HTML is generated
 ## Walkthrough Video
 
 
-https://user-images.githubusercontent.com/115316007/225389831-b071b04c-7c9a-4ffd-bafb-ef8486b9354b.mp4
 
-
-
-
-
+https://user-images.githubusercontent.com/115316007/228368360-0da84816-34cc-427d-acf4-911296a8a6e4.mp4
